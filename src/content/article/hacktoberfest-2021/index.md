@@ -5,7 +5,7 @@ author: Team Kodi
 tags:
   - Developer
 featured_image:
-  src: /images/blog/hacktoberfest-2021.png
+  src: /images/blog/hacktoberfest-2021-scaled.png
   title: Hacktoberfest 2021 logo
   alt: Hacktoberfest 2021 logo
 ---
